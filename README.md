@@ -1,5 +1,5 @@
-# DEMO  
-### A flight reviews app built with Ruby on Rails and React.js
+# A flight reviews app built with Ruby on Rails and React.js
+### DEMO
 <img  align="center" alt="Coding" src="https://raw.githubusercontent.com/prashant54singh/Ruby_flight-/main/app/assets/images/openflights-demo.gif">  
 
 ## HOME PAGE  
