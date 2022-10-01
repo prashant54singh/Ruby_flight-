@@ -12,15 +12,6 @@
 
 ---
 
-This app uses:
-
-* Ruby version: `2.7`
-* Rails version: `6.0.3.4`
-* Database: `postgresql`
-* React version: `16.12.0`
-* React Hooks API
-* React Context API
-
 ## Running it locally
 - run `bundle exec rails db:prepare`
 - run `npm install` or `yarn install`
